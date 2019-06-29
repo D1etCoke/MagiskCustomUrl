@@ -1,0 +1,8 @@
+{
+  "app": {
+    "version": "6.1.1.r17-unofficial",
+    "versionCode": "2019012311",
+    "link": "https://github.com/kantjer/MagiskFiles/raw/master/MagiskManager-v6.1.1.r17-2019012311.apk",
+    "note": "https://raw.githubusercontent.com/kantjer/MagiskFiles/master/Changelog-v18.1.r17-2019012311.md"
+  }
+}
