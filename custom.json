@@ -6,11 +6,11 @@
     "note": ""
   },
   "magisk": {
-    "version": "18.1.r17-unofficial",
-    "versionCode": "2019012311",
-    "link": "https://github.com/kantjer/MagiskFiles/raw/master/Magisk-v18.1.r17-2019012311.zip",
-    "note": "https://raw.githubusercontent.com/kantjer/MagiskFiles/master/updates/Changelog.md",
-    "md5": "efa7e1988dc3e52c1fab521073ebd619"
+    "version": "19.4-2019062801-ianmacd",
+    "versionCode": "2019062801",
+    "link": "https://github.com/ianmacd/MagiskBuilds/raw/master/Magisk-v19.4-2019062801-ianmacd.zip",
+    "note": "https://forum.xda-developers.com/showthread.php?t=3521901",
+    "md5": "bc749f0a38c00d3abe1caaa10e4bf62b"
   },
   "uninstaller": {
     "link": "https://github.com/ianmacd/MagiskBuilds/raw/master/Magisk-uninstaller-v19.4-2019062801-ianmacd.zip"
